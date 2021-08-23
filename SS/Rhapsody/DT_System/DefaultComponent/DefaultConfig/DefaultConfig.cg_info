@@ -1,0 +1,384 @@
+I-Logix-RPY-Archive version 8.15.0 * 9841247
+
+- m_fileModifyTime = { IRPYRawContainer 
+	- size = 76;
+	- value = "DefaultComponent\\DefaultConfig\\Actuators.cpp" 7.9.2020::13:50:28
+	"DefaultComponent\\DefaultConfig\\Actuators.h" 7.9.2020::13:50:28
+	"DefaultComponent\\DefaultConfig\\Attendee.cpp" 7.9.2020::13:50:29
+	"DefaultComponent\\DefaultConfig\\Attendee.h" 7.9.2020::13:50:28
+	"DefaultComponent\\DefaultConfig\\Communication.cpp" 7.9.2020::13:50:28
+	"DefaultComponent\\DefaultConfig\\Communication.h" 7.9.2020::13:50:28
+	"DefaultComponent\\DefaultConfig\\Decibel_Sensor.cpp" 7.9.2020::13:50:28
+	"DefaultComponent\\DefaultConfig\\Decibel_Sensor.h" 7.9.2020::13:50:28
+	"DefaultComponent\\DefaultConfig\\Default.cpp" 6.25.2020::13:43:23
+	"DefaultComponent\\DefaultConfig\\Default.h" 6.25.2020::13:43:23
+	"DefaultComponent\\DefaultConfig\\DetectFire_UC.cpp" 7.9.2020::13:50:27
+	"DefaultComponent\\DefaultConfig\\DetectFire_UC.h" 7.9.2020::13:50:27
+	"DefaultComponent\\DefaultConfig\\EnableFireExtinguisher_UC.cpp" 7.9.2020::13:50:27
+	"DefaultComponent\\DefaultConfig\\EnableFireExtinguisher_UC.h" 7.9.2020::13:50:27
+	"DefaultComponent\\DefaultConfig\\Environment.cpp" 7.9.2020::13:50:28
+	"DefaultComponent\\DefaultConfig\\Environment.h" 7.9.2020::13:50:28
+	"DefaultComponent\\DefaultConfig\\Fire_Sensors.cpp" 7.9.2020::13:50:28
+	"DefaultComponent\\DefaultConfig\\Fire_Sensors.h" 7.9.2020::13:50:28
+	"DefaultComponent\\DefaultConfig\\FlowPortInterfaces.cpp" 7.9.2020::13:50:29
+	"DefaultComponent\\DefaultConfig\\FlowPortInterfaces.h" 7.9.2020::13:50:29
+	"DefaultComponent\\DefaultConfig\\GUI.cpp" 7.9.2020::13:50:28
+	"DefaultComponent\\DefaultConfig\\GUI.h" 7.9.2020::13:50:28
+	"DefaultComponent\\DefaultConfig\\HVAC_Control_UC.cpp" 7.9.2020::13:50:27
+	"DefaultComponent\\DefaultConfig\\HVAC_Control_UC.h" 7.7.2020::15:49:7
+	"DefaultComponent\\DefaultConfig\\Hologram_UC.cpp" 7.9.2020::13:50:28
+	"DefaultComponent\\DefaultConfig\\Hologram_UC.h" 7.7.2020::15:49:8
+	"DefaultComponent\\DefaultConfig\\Humidity_Sensor.cpp" 7.9.2020::13:50:28
+	"DefaultComponent\\DefaultConfig\\Humidity_Sensor.h" 7.9.2020::13:50:28
+	"DefaultComponent\\DefaultConfig\\IMR.cpp" 7.6.2020::15:50:23
+	"DefaultComponent\\DefaultConfig\\IMR.h" 7.6.2020::15:50:23
+	"DefaultComponent\\DefaultConfig\\IMRPkg.cpp" 7.9.2020::13:50:29
+	"DefaultComponent\\DefaultConfig\\IMRPkg.h" 7.6.2020::15:50:23
+	"DefaultComponent\\DefaultConfig\\IMR_System.cpp" 7.9.2020::13:50:28
+	"DefaultComponent\\DefaultConfig\\IMR_System.h" 7.9.2020::13:50:28
+	"DefaultComponent\\DefaultConfig\\LightControl_UC.cpp" 7.6.2020::15:50:23
+	"DefaultComponent\\DefaultConfig\\LightControl_UC.h" 7.6.2020::15:50:23
+	"DefaultComponent\\DefaultConfig\\Light_Sensors.cpp" 7.9.2020::13:50:28
+	"DefaultComponent\\DefaultConfig\\Light_Sensors.h" 7.9.2020::13:50:28
+	"DefaultComponent\\DefaultConfig\\Network_Connection.cpp" 7.9.2020::13:50:29
+	"DefaultComponent\\DefaultConfig\\Network_Connection.h" 7.9.2020::13:50:29
+	"DefaultComponent\\DefaultConfig\\PINCode_UC.cpp" 7.9.2020::13:50:27
+	"DefaultComponent\\DefaultConfig\\PINCode_UC.h" 7.7.2020::15:49:7
+	"DefaultComponent\\DefaultConfig\\PIN_Panel.cpp" 7.9.2020::13:50:28
+	"DefaultComponent\\DefaultConfig\\PIN_Panel.h" 7.9.2020::13:50:28
+	"DefaultComponent\\DefaultConfig\\PlaceEmergencyCall.cpp" 7.9.2020::13:50:27
+	"DefaultComponent\\DefaultConfig\\PlaceEmergencyCall.h" 7.9.2020::13:50:27
+	"DefaultComponent\\DefaultConfig\\Projector.cpp" 7.9.2020::13:50:28
+	"DefaultComponent\\DefaultConfig\\Projector.h" 7.9.2020::13:50:28
+	"DefaultComponent\\DefaultConfig\\Safety.cpp" 7.9.2020::13:50:28
+	"DefaultComponent\\DefaultConfig\\Safety.h" 7.9.2020::13:50:28
+	"DefaultComponent\\DefaultConfig\\Security_Cameras.cpp" 7.9.2020::13:50:28
+	"DefaultComponent\\DefaultConfig\\Security_Cameras.h" 7.9.2020::13:50:28
+	"DefaultComponent\\DefaultConfig\\Security_System.cpp" 7.9.2020::13:50:28
+	"DefaultComponent\\DefaultConfig\\Security_System.h" 7.9.2020::13:50:28
+	"DefaultComponent\\DefaultConfig\\SendToUnity.cpp" 7.9.2020::13:50:26
+	"DefaultComponent\\DefaultConfig\\SendToUnity.h" 7.9.2020::13:50:26
+	"DefaultComponent\\DefaultConfig\\Sensors.cpp" 7.9.2020::13:50:28
+	"DefaultComponent\\DefaultConfig\\Sensors.h" 7.9.2020::13:50:28
+	"DefaultComponent\\DefaultConfig\\StructuralDiagrams.cpp" 7.9.2020::13:50:29
+	"DefaultComponent\\DefaultConfig\\StructuralDiagrams.h" 7.9.2020::13:50:29
+	"DefaultComponent\\DefaultConfig\\Telephone_Line.cpp" 7.9.2020::13:50:28
+	"DefaultComponent\\DefaultConfig\\Telephone_Line.h" 7.9.2020::13:50:28
+	"DefaultComponent\\DefaultConfig\\Temperature_Sensor.cpp" 7.9.2020::13:50:29
+	"DefaultComponent\\DefaultConfig\\Temperature_Sensor.h" 7.9.2020::13:50:29
+	"DefaultComponent\\DefaultConfig\\TriggerAlarm_UC.cpp" 7.9.2020::13:50:27
+	"DefaultComponent\\DefaultConfig\\TriggerAlarm_UC.h" 7.9.2020::13:50:27
+	"DefaultComponent\\DefaultConfig\\UseCaseAnalysisPkg.cpp" 7.9.2020::13:50:29
+	"DefaultComponent\\DefaultConfig\\UseCaseAnalysisPkg.h" 7.9.2020::13:50:29
+	"DefaultComponent\\DefaultConfig\\User.cpp" 7.9.2020::13:50:28
+	"DefaultComponent\\DefaultConfig\\User.h" 7.9.2020::13:50:28
+	"DefaultComponent\\DefaultConfig\\boolFlowInterface.cpp" 7.6.2020::15:50:21
+	"DefaultComponent\\DefaultConfig\\boolFlowInterface.h" 7.6.2020::15:50:21
+	"DefaultComponent\\DefaultConfig\\intFlowInterface.cpp" 7.6.2020::15:50:21
+	"DefaultComponent\\DefaultConfig\\intFlowInterface.h" 7.6.2020::15:50:21
+	"DefaultComponent\\DefaultConfig\\interface_12.cpp" 7.9.2020::13:50:28
+	"DefaultComponent\\DefaultConfig\\interface_12.h" 7.9.2020::13:50:28
+	
+}
+- m_saveUnitAndOwnerSaveUnit = { IRPYRawContainer 
+	- size = 5;
+	- value = "GUID 2f401096-9917-46f6-bd6e-088823809d6c" "GUID c5663c73-7a83-4449-98df-a9fd5ee06823"
+	"GUID 3097eb9d-e744-4b06-84db-d98a6d55c73c" "GUID c5663c73-7a83-4449-98df-a9fd5ee06823"
+	"GUID 94c7008a-4e8c-46cc-8ece-92d8483ae8bc" "GUID c5663c73-7a83-4449-98df-a9fd5ee06823"
+	"GUID cf4b59e4-e3a2-41a6-bb75-1e2e53c6fb83" "GUID c5663c73-7a83-4449-98df-a9fd5ee06823"
+	"GUID f9664732-5f78-44ca-8dea-4dffc3c5e613" "GUID c5663c73-7a83-4449-98df-a9fd5ee06823"
+	
+}
+- size = 37;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\UnityRhapsody_Final_Full_Version_Backup_rpy\\StructuralDiagrams.sbsx";
+	- _subsystem = "StructuralDiagrams";
+	- _name = "IMR_System";
+	- _id = GUID e5d540c0-b607-48a5-9f42-ce1e81b95dc9;
+}
+- genTime = 7.9.2020::13:50:29;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\UnityRhapsody_Final_Full_Version_Backup_rpy\\IMRPkg.sbsx";
+	- _subsystem = "IMRPkg";
+	- _name = "DetectFire_UC";
+	- _id = GUID 5daf8a23-faab-4c1a-be59-3b73164de044;
+}
+- genTime = 7.9.2020::13:50:29;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\UnityRhapsody_Final_Full_Version_Backup_rpy\\StructuralDiagrams.sbsx";
+	- _subsystem = "StructuralDiagrams";
+	- _name = "User";
+	- _id = GUID 01167784-d5be-4ac0-8a0e-4bbc0e915590;
+}
+- genTime = 7.9.2020::13:50:29;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = ".\\..\\..\\UnityRhapsody_Final_Full_Version_Backup_rpy\\StructuralDiagrams.sbsx";
+	- _name = "StructuralDiagrams";
+	- _id = GUID f9664732-5f78-44ca-8dea-4dffc3c5e613;
+}
+- genTime = 7.9.2020::13:50:29;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\UnityRhapsody_Final_Full_Version_Backup_rpy\\FlowPortInterfaces.sbsx";
+	- _subsystem = "FlowPortInterfaces";
+	- _name = "intFlowInterface";
+	- _id = GUID 67a4bf4c-6333-4fb8-9c5f-831f6f567bc2;
+}
+- genTime = 7.9.2020::13:50:29;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\UnityRhapsody_Final_Full_Version_Backup_rpy\\StructuralDiagrams.sbsx";
+	- _subsystem = "StructuralDiagrams";
+	- _name = "Projector";
+	- _id = GUID c36c815c-9503-4807-bbd3-db9b17ff98cb;
+}
+- genTime = 7.9.2020::13:50:29;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\UnityRhapsody_Final_Full_Version_Backup_rpy\\IMRPkg.sbsx";
+	- _subsystem = "IMRPkg";
+	- _name = "PINCode_UC";
+	- _id = GUID fc07ccd1-d03c-462b-b0b8-b6a5d6547b8b;
+}
+- genTime = 7.9.2020::13:50:29;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\UnityRhapsody_Final_Full_Version_Backup_rpy\\StructuralDiagrams.sbsx";
+	- _subsystem = "StructuralDiagrams";
+	- _name = "Security_System";
+	- _id = GUID 1d854182-ca1b-46b4-892d-152aa5c59975;
+}
+- genTime = 7.9.2020::13:50:29;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\UnityRhapsody_Final_Full_Version_Backup_rpy\\StructuralDiagrams.sbsx";
+	- _subsystem = "StructuralDiagrams";
+	- _name = "Telephone_Line";
+	- _id = GUID d418c467-8b07-4d7f-99ce-b28528c163b3;
+}
+- genTime = 7.9.2020::13:50:29;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\UnityRhapsody_Final_Full_Version_Backup_rpy\\StructuralDiagrams.sbsx";
+	- _subsystem = "StructuralDiagrams";
+	- _name = "Safety";
+	- _id = GUID 986553a9-3f4b-4729-8995-af925adf8c87;
+}
+- genTime = 7.9.2020::13:50:29;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\UnityRhapsody_Final_Full_Version_Backup_rpy\\StructuralDiagrams.sbsx";
+	- _subsystem = "StructuralDiagrams";
+	- _name = "Temperature_Sensor";
+	- _id = GUID 83167992-974f-4f30-b64a-b0babaf5d97a;
+}
+- genTime = 7.9.2020::13:50:29;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\UnityRhapsody_Final_Full_Version_Backup_rpy\\StructuralDiagrams.sbsx";
+	- _subsystem = "StructuralDiagrams";
+	- _name = "Network_Connection";
+	- _id = GUID 55c40d27-bef1-4fb2-a8c7-ab377db1d491;
+}
+- genTime = 7.9.2020::13:50:29;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\UnityRhapsody_Final_Full_Version_Backup_rpy\\StructuralDiagrams.sbsx";
+	- _subsystem = "StructuralDiagrams";
+	- _name = "Security_Cameras";
+	- _id = GUID 3c2d437f-9533-402d-89ff-b416e427c617;
+}
+- genTime = 7.9.2020::13:50:29;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\UnityRhapsody_Final_Full_Version_Backup_rpy\\IMRPkg.sbsx";
+	- _subsystem = "IMRPkg";
+	- _name = "TriggerAlarm_UC";
+	- _id = GUID 01caced9-702f-43ef-b353-baed68f29c68;
+}
+- genTime = 7.9.2020::13:50:29;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\UnityRhapsody_Final_Full_Version_Backup_rpy\\IMRPkg.sbsx";
+	- _subsystem = "IMRPkg";
+	- _name = "PlaceEmergencyCall";
+	- _id = GUID ef70a0b6-b31a-4c36-b0dc-b35f4db24015;
+}
+- genTime = 7.9.2020::13:50:29;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = ".\\..\\..\\UnityRhapsody_Final_Full_Version_Backup_rpy\\IMRPkg.sbsx";
+	- _name = "IMRPkg";
+	- _id = GUID 94c7008a-4e8c-46cc-8ece-92d8483ae8bc;
+}
+- genTime = 7.9.2020::13:50:29;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\UnityRhapsody_Final_Full_Version_Backup_rpy\\IMRPkg.sbsx";
+	- _subsystem = "IMRPkg";
+	- _name = "Hologram_UC";
+	- _id = GUID a40fcdc6-87ae-4682-929c-f1e1e958340d;
+}
+- genTime = 7.9.2020::13:50:29;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\UnityRhapsody_Final_Full_Version_Backup_rpy\\StructuralDiagrams.sbsx";
+	- _subsystem = "StructuralDiagrams";
+	- _name = "Actuators";
+	- _id = GUID 45fec6bd-2770-4531-8ab1-199f889223ef;
+}
+- genTime = 7.9.2020::13:50:29;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\UnityRhapsody_Final_Full_Version_Backup_rpy\\StructuralDiagrams.sbsx";
+	- _subsystem = "StructuralDiagrams";
+	- _name = "Decibel_Sensor";
+	- _id = GUID 48179100-b874-4ec0-bc92-5de75ac10694;
+}
+- genTime = 7.9.2020::13:50:29;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\UnityRhapsody_Final_Full_Version_Backup_rpy\\IMRPkg.sbsx";
+	- _subsystem = "IMRPkg";
+	- _name = "EnableFireExtinguisher_UC";
+	- _id = GUID ca25dc3a-01db-4753-bda7-60fd2af5f107;
+}
+- genTime = 7.9.2020::13:50:29;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\UnityRhapsody_Final_Full_Version_Backup_rpy\\IMRPkg.sbsx";
+	- _subsystem = "IMRPkg";
+	- _name = "SendToUnity";
+	- _id = GUID 248609fe-41c1-4975-8702-90b8d427bf17;
+}
+- genTime = 7.9.2020::13:50:29;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\UnityRhapsody_Final_Full_Version_Backup_rpy\\StructuralDiagrams.sbsx";
+	- _subsystem = "StructuralDiagrams";
+	- _name = "Sensors";
+	- _id = GUID d2bfb50c-47bb-4ef3-b0ab-2127f9c785f2;
+}
+- genTime = 7.9.2020::13:50:29;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\UnityRhapsody_Final_Full_Version_Backup_rpy\\StructuralDiagrams.sbsx";
+	- _subsystem = "StructuralDiagrams";
+	- _name = "Environment";
+	- _id = GUID 5f9ce540-ce53-41ff-aeeb-3cd26599b0d0;
+}
+- genTime = 7.9.2020::13:50:29;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\UnityRhapsody_Final_Full_Version_Backup_rpy\\IMRPkg.sbsx";
+	- _subsystem = "IMRPkg";
+	- _name = "IMR";
+	- _id = GUID bafdba7a-0d4d-4d03-a78f-41e570deb9e6;
+}
+- genTime = 7.9.2020::13:50:29;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\UnityRhapsody_Final_Full_Version_Backup_rpy\\IMRPkg.sbsx";
+	- _subsystem = "IMRPkg";
+	- _name = "HVAC_Control_UC";
+	- _id = GUID 5e242390-bfc4-457a-965e-ce20b0adab5b;
+}
+- genTime = 7.9.2020::13:50:29;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\UnityRhapsody_Final_Full_Version_Backup_rpy\\StructuralDiagrams.sbsx";
+	- _subsystem = "StructuralDiagrams";
+	- _name = "GUI";
+	- _id = GUID 79927693-2938-42f0-9c53-77344eeba8a0;
+}
+- genTime = 7.9.2020::13:50:29;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\UnityRhapsody_Final_Full_Version_Backup_rpy\\StructuralDiagrams.sbsx";
+	- _subsystem = "StructuralDiagrams";
+	- _name = "Light_Sensors";
+	- _id = GUID c68eb7e5-c767-483b-87d9-c88a68c99e44;
+}
+- genTime = 7.9.2020::13:50:29;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\UnityRhapsody_Final_Full_Version_Backup_rpy\\IMRPkg.sbsx";
+	- _subsystem = "IMRPkg";
+	- _name = "LightControl_UC";
+	- _id = GUID 11ff3b00-7cb0-4a54-921b-76176f0b2c83;
+}
+- genTime = 7.9.2020::13:50:29;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\UnityRhapsody_Final_Full_Version_Backup_rpy\\StructuralDiagrams.sbsx";
+	- _subsystem = "StructuralDiagrams";
+	- _name = "Humidity_Sensor";
+	- _id = GUID 12c21890-75f8-4295-9bc4-bbcd42c228c3;
+}
+- genTime = 7.9.2020::13:50:29;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\UnityRhapsody_Final_Full_Version_Backup_rpy\\StructuralDiagrams.sbsx";
+	- _subsystem = "StructuralDiagrams";
+	- _name = "PIN_Panel";
+	- _id = GUID bf05a999-83ea-48e8-84b7-35e40443a04d;
+}
+- genTime = 7.9.2020::13:50:29;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = ".\\..\\..\\UnityRhapsody_Final_Full_Version_Backup_rpy\\FlowPortInterfaces.sbsx";
+	- _name = "FlowPortInterfaces";
+	- _id = GUID 3097eb9d-e744-4b06-84db-d98a6d55c73c;
+}
+- genTime = 7.9.2020::13:50:29;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\UnityRhapsody_Final_Full_Version_Backup_rpy\\StructuralDiagrams.sbsx";
+	- _subsystem = "StructuralDiagrams";
+	- _name = "Fire_Sensors";
+	- _id = GUID 9d7e069c-63d5-4e01-87ef-c0b86c0d24b8;
+}
+- genTime = 7.9.2020::13:50:29;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = ".\\..\\..\\UnityRhapsody_Final_Full_Version_Backup_rpy\\UseCaseAnalysisPkg.sbsx";
+	- _name = "UseCaseAnalysisPkg";
+	- _id = GUID cf4b59e4-e3a2-41a6-bb75-1e2e53c6fb83;
+}
+- genTime = 7.9.2020::13:50:29;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\UnityRhapsody_Final_Full_Version_Backup_rpy\\StructuralDiagrams.sbsx";
+	- _subsystem = "StructuralDiagrams";
+	- _name = "Communication";
+	- _id = GUID f0f3b028-85af-4771-9079-33fca24c4136;
+}
+- genTime = 7.9.2020::13:50:29;
+- hElement = { IHandle 
+	- _m2Class = "IActor";
+	- _filename = ".\\..\\..\\UnityRhapsody_Final_Full_Version_Backup_rpy\\UseCaseAnalysisPkg.sbsx";
+	- _subsystem = "UseCaseAnalysisPkg";
+	- _name = "Attendee";
+	- _id = GUID 5c4bde9d-69af-475e-bae0-b40a22538af7;
+}
+- genTime = 7.9.2020::13:50:29;
+- hElement = { IHandle 
+	- _m2Class = "ICodeGenConfigInfo";
+	- _filename = ".\\..\\..\\UnityRhapsody_Final_Full_Version_Backup_rpy\\DefaultComponent.cmpx";
+	- _name = "DefaultComponent\\DefaultConfig";
+	- _id = GUID 56f4ab21-a9e8-4ea3-a9ac-e035c6ec2c21;
+}
+- genTime = 7.9.2020::13:50:29;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\UnityRhapsody_Final_Full_Version_Backup_rpy\\StructuralDiagrams.sbsx";
+	- _subsystem = "StructuralDiagrams";
+	- _name = "interface_12";
+	- _id = GUID 6c6fc89c-96fa-4071-b85d-d59f33f3f557;
+}
+- genTime = 7.9.2020::13:50:29;
+

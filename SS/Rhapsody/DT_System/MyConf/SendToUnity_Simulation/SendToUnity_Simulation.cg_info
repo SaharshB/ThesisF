@@ -1,0 +1,40 @@
+I-Logix-RPY-Archive version 8.15.0 * 9841247
+
+- m_fileModifyTime = { IRPYRawContainer 
+	- size = 4;
+	- value = "MyConf\\SendToUnity_Simulation\\Default.cpp" 6.25.2020::15:31:35
+	"MyConf\\SendToUnity_Simulation\\Default.h" 6.25.2020::15:31:35
+	"MyConf\\SendToUnity_Simulation\\SendToUnity.cpp" 6.25.2020::15:31:35
+	"MyConf\\SendToUnity_Simulation\\SendToUnity.h" 6.25.2020::15:31:35
+	
+}
+- m_saveUnitAndOwnerSaveUnit = { IRPYRawContainer 
+	- size = 2;
+	- value = "GUID 546eea5b-c7e7-43d4-bfc3-93bd32f429a9" "GUID c5663c73-7a83-4449-98df-a9fd5ee06823"
+	"GUID 94c7008a-4e8c-46cc-8ece-92d8483ae8bc" "GUID c5663c73-7a83-4449-98df-a9fd5ee06823"
+	
+}
+- size = 3;
+- hElement = { IHandle 
+	- _m2Class = "ICodeGenConfigInfo";
+	- _filename = ".\\..\\..\\UnityRhapsody_V2_rpy\\MyConf.cmpx";
+	- _name = "MyConf\\SendToUnity_Simulation";
+	- _id = GUID bf902965-f934-4970-b28a-4b36161350b6;
+}
+- genTime = 6.25.2020::15:31:35;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = ".\\..\\..\\UnityRhapsody_V2_rpy\\Default.sbsx";
+	- _name = "Default";
+	- _id = GUID 94c7008a-4e8c-46cc-8ece-92d8483ae8bc;
+}
+- genTime = 6.25.2020::15:31:35;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\UnityRhapsody_V2_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "SendToUnity";
+	- _id = GUID 248609fe-41c1-4975-8702-90b8d427bf17;
+}
+- genTime = 6.25.2020::15:31:35;
+
